@@ -1,0 +1,81 @@
+#all{
+	width: 375px;
+	height: 667px;
+	margin: 0 auto;
+	background-color: #1e1e1e;
+	font-family: arial;
+}
+.heads{
+	width: 100%;
+	height: 50px;
+	background: linear-gradient(#5aa51f, #22780d);
+	clear: all;
+	
+}
+.txtHead{
+	text-align: center;
+	color: white;
+	text-shadow: 1px 1px #262626;
+	padding-top: 15px;
+}
+.sub_heads{
+	width: 100%;
+	height: 95px;
+	background-color: #28351f;
+}
+.txtsub{
+	padding-top: 10px;
+	padding-left: 23px;
+	color: #67ab25;
+}
+.pixsS{
+	margin-top: 17px;
+	
+}
+.pixs{
+	margin-top: 17px;
+	margin-left: 6px;
+}
+
+.detail{
+	color: white;
+	font-size: 19px;
+	padding-left: 23px;
+}
+.txtDetailsub{
+	font-size: 11px;
+	margin-top: -15px;
+}
+.txtminiG{
+	color: #67ac25;
+	font-size: 12px;
+	margin-left: 267px;
+	margin-top: -5px;
+}
+.txtminiG1{
+	color: #67ac25;
+	font-size: 12px;
+	margin-left: 220px;
+	
+}
+.buttonS {
+	width: 90px;
+	height: 48px;
+	cursor: pointer;
+	border-bottom: 2px;
+	border-right: 2px;
+	border-left: 2px;
+	border-radius: 3px;
+    background: linear-gradient(#676767, #494949);
+    color: white;
+    font-family: arial;
+    font-size: 15px;
+   float: right;
+   margin-right: 20px;
+   margin-top: -7px;
+    
+}
+.footers{
+	position: fixed;
+bottom: 0;
+}
